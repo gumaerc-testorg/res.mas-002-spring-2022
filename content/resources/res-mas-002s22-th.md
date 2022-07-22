@@ -10,6 +10,7 @@ image_metadata:
   image-alt: Two girls sitting in front of a laptop, with one typing on laptop and
     the other girl looking at the laptop screen
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: res-mas-002s22-th.jpg
