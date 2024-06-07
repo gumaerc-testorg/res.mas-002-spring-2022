@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-mas-002-day-of-ai-spring-2022/b50f3d4dd143000553f191f95d844c31_res-mas-002s22-th.jpg
+file_size: 16636
 file_type: image/jpeg
 image_metadata:
   caption: Day of AI provides resources for educators to better engage children in

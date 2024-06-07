@@ -3,7 +3,7 @@ leftnav:
   name: Instructor Insights
   pageRef: /pages/instructor-insights
   weight: 10
-- identifier: external-1802846272-1647367187757
+- identifier: 75975855-c144-493d-95e4-4918214cafe0
   name: Online Publication
-  url: https://www.dayofai.org/program
+  pageRef: /external-resources/online-publication_75975855-c144-493d-95e4-4918214cafe0
   weight: 20
