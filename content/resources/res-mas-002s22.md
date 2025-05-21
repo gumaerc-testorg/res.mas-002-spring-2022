@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /ol-ocw-studio-app/courses/res-mas-002-day-of-ai-spring-2022/c9452c8c2ee3102bd624de89178e0c3a_res-mas-002s22.jpg
+file: /courses/res-mas-002-day-of-ai-spring-2022/c9452c8c2ee3102bd624de89178e0c3a_res-mas-002s22.jpg
 file_size: 81324
 file_type: image/jpeg
 image_metadata:
