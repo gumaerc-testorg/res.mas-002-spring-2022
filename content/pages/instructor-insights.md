@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'Instructor Insights '
 draft: false
 title: Instructor Insights
 uid: 61af0cdb-44db-4ab8-b996-2f020f885746
@@ -8,4 +9,4 @@ When humans interact, they don’t just pass information from one to the other; 
 
 In the episode of the Chalk Radio podcast embedded below, Prof. Breazeal describes those projects as well as her work developing the groundbreaking social robots Kismet and Jibo, prototypes of what she calls “warm tech”—AI-enabled devices designed to be engaging, expressive, and personal. 
 
-{{< simplecast f0dc6d8b-a234-43bf-a8f3-be65f770f558 >}}
+{{< resource uuid="286a0e7a-7cb7-4994-83f8-cdd06f4f2335" >}}
